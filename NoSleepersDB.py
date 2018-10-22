@@ -104,5 +104,4 @@ while True:
     print('Bot Complete... Restarting...')
     print('Bot Completed...')
     print("Restarting Bot...")
-    time.sleep(86400)
 
